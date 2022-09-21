@@ -1,1 +1,2 @@
-Örnek dosyamız ektedir.
+### Yeni dosya 
+Oluşturuldu.
